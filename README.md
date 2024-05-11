@@ -1,4 +1,4 @@
-# Hotel-Booking-Data-Analysis-Python
+# Hotel_Booking_Data_Analysis | Python 
 
 Data analysis Project steps
 1.	Create a problem statement
